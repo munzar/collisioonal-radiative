@@ -1,2 +1,2 @@
-# collisioonal-radiative
-Model of chemical kinetics with radiation
+# collisional-radiative
+Collisional-radiative model of chemical kinetics
